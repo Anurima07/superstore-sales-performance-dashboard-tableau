@@ -76,7 +76,7 @@ Total Records Analyzed: **9,994**
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard/Superstore_Dashboard.png.png)
+![Dashboard](Superstore_Dashboard.png.png)
 
 ---
 
